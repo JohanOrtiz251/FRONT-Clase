@@ -1,0 +1,19 @@
+.logo{
+    /* border: solid 2px blue; */
+    width: 10%;
+}
+
+ul{
+    /* border: solid 2px blue; */
+    margin-left: 40px;
+}
+.contenedor{
+    /* border: solid 2px blue; */
+    margin: 2%;
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+form{
+    height: 18%;
+    margin: 3%;
+}
